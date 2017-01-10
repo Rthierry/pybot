@@ -21,3 +21,7 @@ class ServerInfo(object):
         print "Kernel: " + str(self.local_kernel)
         print "Distributive: " + str(self.local_distributive)
         print "Architecture: " + str(self.local_architecture) + "\n"
+
+
+if __name__ == '__main__':
+    ServerInfo()

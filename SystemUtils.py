@@ -5,8 +5,6 @@
 # @Last modified by:   Gandalf
 # @Last modified time: 07-Jan-2017
 
-
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # -*- Alex -*-
@@ -101,3 +99,6 @@ class SystemUtils(object):
         if status_final != "200":
             print status_final
             requests.post(url, data={'chat_id': 317612641, 'text': str(down)})
+
+
+SystemUtils("/info")
