@@ -14,6 +14,7 @@ from pybot.SystemUtils import SystemUtils
 
 __version__ = '1.0.1'
 
+
 class BotApi(object):
 
     def __init__(self):

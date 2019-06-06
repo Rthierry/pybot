@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # -*- Alex -*-
 
+
 class Bcolors:
 
     HEADER = '\033[95m'

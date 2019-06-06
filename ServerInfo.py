@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # -*- Alex -*-
 
+
 class ServerInfo(object):
 
     def __init__(self):

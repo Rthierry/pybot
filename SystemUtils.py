@@ -5,7 +5,7 @@
 # @Last modified by:   Gandalf
 # @Last modified time: 07-Jan-2017
 
-#!/usr/bin/env python
+# !/usr/bin/env python
 # -*- coding: utf-8 -*-
 # -*- Alex -*-
 
